@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Firebase
+GoogleService-Info.plist
+
+# Xcode
+DerivedData/
+*.xcconfig
+
+Config/Secrets.xconfig
+
+# Environment/secrets
+.env
+.env.*
